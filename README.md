@@ -21,6 +21,7 @@ Modules: http.server, socket, pyqrcode, pypng, os, webbrowser
 
 🛠️ How to Run
 Clone this repository or download the script:
+https://github.com/Bhargav613/simple-fileserver-qr.git
 Install required packages:
 pip install pyqrcode pypng
 Run the script:
