@@ -21,7 +21,6 @@ Modules: http.server, socket, pyqrcode, pypng, os, webbrowser
 
 🛠️ How to Run
 Clone this repository or download the script:
-git clone https://github.com/your-username/fileshare-http-qr
 Install required packages:
 pip install pyqrcode pypng
 Run the script:
